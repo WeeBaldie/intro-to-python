@@ -1,0 +1,98 @@
+Chapter 1
+
+Guido van Rossum
+https://en.wikipedia.org/wiki/Guido_van_Rossum
+
+Python Non-Programmer Beginner Guides
+https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
+
+Python History and License
+https://docs.python.org/3/license.html
+
+Chapter 2
+
+General Python FAQ
+https://docs.python.org/3/faq/general.html#id2
+
+Object-oriented programming
+https://en.wikipedia.org/wiki/Object-oriented_programming
+
+Stack Overflow 2020 Developer Survey
+https://insights.stackoverflow.com/survey/2020#most-popular-technologies
+
+CPython
+https://en.wikipedia.org/wiki/CPython
+
+Low-level programming
+https://en.wikipedia.org/wiki/Low-level_programming_language#:~:text=A%20low%2Dlevel%20programming%20language,machine%20code%20or%20assembly%20language.
+
+
+Chapter 3
+Python Documentation
+https://docs.python.org
+
+Chapter 4
+
+Pep8
+https://www.python.org/dev/peps/pep-0008/
+
+Chapter 5
+
+Python Glossary
+https://docs.python.org/3/glossary.html
+
+Function Definition
+https://docs.python.org/3.8/reference/compound_stmts.html#function-definitions
+
+Docstring Conventions
+https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring
+
+Chapter 6
+
+Built-In Exceptions
+https://docs.python.org/3/library/exceptions.html#bltin-exceptions
+
+Stack Overflow
+https://stackoverflow.com/questions/tagged/python
+
+
+Chapter 9
+
+Iterable
+https://docs.python.org/3/glossary.html?highlight=scope#term-iterable
+
+List Methods
+https://docs.python.org/3/tutorial/datastructures.html
+
+Chapter 10
+
+Open Source Licenses
+https://opensource.org/licenses
+
+Chapter 11
+
+PyCharm
+https://www.jetbrains.com/pycharm/
+
+Visual Studio Code
+https://code.visualstudio.com/
+
+Sublime Text
+https://www.sublimetext.com/
+
+Python Idle Documentation
+https://docs.python.org/3/library/idle.html
+
+Shebang Lines
+https://docs.python.org/3/using/windows.html#shebang-lines
+
+Virtual Environments
+https://docs.python.org/3/tutorial/venv.html
+
+Chapter 12
+
+Relative and Absolute Paths
+https://en.wikipedia.org/wiki/Path_(computing)#:~:text=in%20a%20path.-,Absolute%20and%20relative%20paths,provide%20the%20full%20absolute%20path.
+
+CSV Module
+https://docs.python.org/3/library/csv.html#id3
